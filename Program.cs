@@ -1,16 +1,15 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.EntityFrameworkCore;
 using Sanctum.Models;
 
+var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-var builder = WebApplication.CreateBuilder(args);
-
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
-builder.Services.AddDbContext<TodoContext>(opt =>
+builder.Services.AddDbContext<SancContext>(opt =>
     opt.UseInMemoryDatabase("TodoList"));
 
 // Configure the HTTP request pipeline.
