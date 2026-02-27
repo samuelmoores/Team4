@@ -1,4 +1,5 @@
-﻿namespace Sanctum.Models
+﻿using Microsoft.EntityFrameworkCore;
+namespace Sanctum.Models
 {
     public class SancContext : DbContext
     {
