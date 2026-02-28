@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 builder.Services.AddControllers();
-builder.Services.AddOpenApi();
+// builder.Services.AddOpenApi();
 builder.Services.AddDbContext<SancContext>(opt =>
     opt.UseInMemoryDatabase("TodoList"));
 
