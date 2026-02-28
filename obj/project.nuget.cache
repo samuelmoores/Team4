@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "xjxQLTbNyTM=",
-  "success": false,
+  "dgSpecHash": "s4bq2rUJNsA=",
+  "success": true,
   "projectFilePath": "C:\\Users\\casse\\source\\csulb_school_assignments_CS\\Spring_2026\\443_class_spring_26\\Sanctum\\Team4\\Team4\\Sanctum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\casse\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -54,7 +54,7 @@
     "C:\\Users\\casse\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
-    "C:\\Users\\casse\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\casse\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\microsoft.build\\17.10.4\\microsoft.build.17.10.4.nupkg.sha512",
@@ -134,17 +134,5 @@
     "C:\\Users\\casse\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\casse\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.OpenApi 9.0.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Microsoft.AspNetCore.OpenApi 9.0.0 supports: net9.0 (.NETCoreApp,Version=v9.0)",
-      "projectPath": "C:\\Users\\casse\\source\\csulb_school_assignments_CS\\Spring_2026\\443_class_spring_26\\Sanctum\\Team4\\Team4\\Sanctum.csproj",
-      "filePath": "C:\\Users\\casse\\source\\csulb_school_assignments_CS\\Spring_2026\\443_class_spring_26\\Sanctum\\Team4\\Team4\\Sanctum.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
