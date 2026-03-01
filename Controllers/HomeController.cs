@@ -18,6 +18,44 @@ namespace Sanctum.Controllers
             return View();
         }
 
+        public IActionResult Login(int usernameID, string password)
+        {
+            var u_p = false;
+            var chara = 8;
+            //ViewData["Message"] = "Are you seeing this";
+            while (u_p) {
+
+
+                if (usernameID == 9)
+                {
+                    u_p = true;
+
+                }
+                else if (Convert.ToInt32(password.Length) >= chara)
+                {
+                    u_p = true;
+                }
+                else
+                {
+                    Console.WriteLine("Wrong Username or Password -- Try Again");
+                    u_p = false;
+
+                }
+            }
+
+            return View(new List<SancModel>());
+        }
+        public IActionResult Buildig()
+        {
+
+            return View();
+        }
+
+        public IActionResult Room()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

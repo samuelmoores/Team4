@@ -7,11 +7,6 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-builder.Services.AddControllers();
-// builder.Services.AddOpenApi();
-builder.Services.AddDbContext<SancContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
-
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
