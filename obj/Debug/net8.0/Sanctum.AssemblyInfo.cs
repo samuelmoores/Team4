@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sanctum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb2ab4cc0a59530d7badc4fc5b97a6983fc6052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f24545ab77bdbf08b135ec6e1d9f8913cbc8bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sanctum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sanctum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
