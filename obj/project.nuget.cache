@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "reAwX85PYys=",
+  "dgSpecHash": "kek772t1zno=",
   "success": true,
   "projectFilePath": "C:\\Users\\Emiliano\\Desktop\\Team4\\Sanctum.csproj",
   "expectedPackageFiles": [
@@ -133,11 +133,7 @@
     "C:\\Users\\Emiliano\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
     "C:\\Users\\Emiliano\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
     "C:\\Users\\Emiliano\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\Emiliano\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512",
-    "C:\\Users\\Emiliano\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\Emiliano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\Emiliano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\Emiliano\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.24\\microsoft.netcore.app.host.win-arm64.8.0.24.nupkg.sha512"
+    "C:\\Users\\Emiliano\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
